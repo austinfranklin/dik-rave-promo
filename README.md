@@ -1,3 +1,3 @@
 # dik-rave-promo
 
-This is for the algorave!
+This is for the algorave! Hooray!
